@@ -1,0 +1,5 @@
+# Created at 2026-06-27T22:33:27.765
+Boot Manifest-JAR contains absolute paths in classpath 'D:\cognizant-handbook\Module-4-JUnit-Mockito-SLF4J\Exercise-4-AAA-Pattern\junit-aaa\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
