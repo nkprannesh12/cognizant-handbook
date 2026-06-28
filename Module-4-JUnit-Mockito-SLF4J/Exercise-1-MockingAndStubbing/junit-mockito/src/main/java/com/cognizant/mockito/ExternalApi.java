@@ -1,5 +1,5 @@
-package com.cognizant.mockito;
+    package com.cognizant.mockito;
 
-public interface ExternalApi {
-    String getData();
-}
+    public interface ExternalApi {
+        String getData();
+    }
